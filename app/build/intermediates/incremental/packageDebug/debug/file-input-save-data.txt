@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 08 20:49:26 IST 2021
+0.baseType=DIRECTORY
+0.base=D\:\\Food-Ordering-App\\RestaurantEatItApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
